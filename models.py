@@ -27,8 +27,10 @@ class Document:
     def save_to_pdf(self, content, filename):
         pdf = FPDF()
         pdf.add_page()
-        pdf.set_font("Arial", size=12)
-        pdf.multi_cell(0, 10, content.encode('latin-1', 'replace').decode('latin-1'))
+        pdf.add_font('EBGaramond','','fonts/EBGaramond-Italic-VariableFont_wght.ttf',uni=True)
+        pdf.set_font("EBGaramond", size=12)
+        for line in content.split("\n"):
+            pdf.multi_cell(0,10,line)
         pdf.output(f"output/{filename}")
 
 
