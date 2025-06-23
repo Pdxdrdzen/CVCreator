@@ -27,5 +27,7 @@ Wyjście: Pliki `cv_jan@example.com.txt`, `cv_jan@example.com.pdf`
 
 ## Autorzy
 - Przemysław Drdzeń
+- Marcin Łaszcz
+- Klaudia Duma
 - Grupa: 2ID12A
 - Data: 2025-06-23
