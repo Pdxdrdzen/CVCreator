@@ -1,0 +1,12 @@
+
+        List motywacyjny
+        Szanowni Państwo,
+        Zwracam się z uprzejmą prośbą o rozważenie mojej kandydatury na stanowisko Wykladowca w firmie Politechnika Swietokrzyska.
+        Imię i nazwisko: Przemyslaw Drdzen
+        Email: pdrdzen@interia.pl
+        Wykształcenie: srednie
+        Doświadczenie: Kasjer - zabka
+        Umiejętności: kreatywny,  pracowity,  pewny siebie,  obsluga kasy fiskalnej
+        Z poważaniem,
+        Przemyslaw Drdzen
+        

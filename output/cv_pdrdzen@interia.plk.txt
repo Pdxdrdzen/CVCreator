@@ -1,0 +1,8 @@
+
+        CV
+        Imię i nazwisko: Przemyslaw Drdzen
+        Email: pdrdzen@interia.plk
+        Wykształcenie: srednie
+        Doświadczenie: duze
+        Umiejętności: piekny, mlody, seksowny, utalentowany
+        

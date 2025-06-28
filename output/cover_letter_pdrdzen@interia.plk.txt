@@ -1,0 +1,12 @@
+
+        List motywacyjny
+        Szanowni Państwo,
+        Zwracam się z uprzejmą prośbą o rozważenie mojej kandydatury na stanowisko konsultant w firmie Smoke.
+        Imię i nazwisko: Przemyslaw Drdzen
+        Email: pdrdzen@interia.plk
+        Wykształcenie: srednie
+        Doświadczenie: duze
+        Umiejętności: piekny, mlody, seksowny, utalentowany
+        Z poważaniem,
+        Przemyslaw Drdzen
+        

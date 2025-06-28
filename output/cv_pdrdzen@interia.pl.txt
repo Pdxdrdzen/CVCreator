@@ -1,0 +1,8 @@
+
+        CV
+        Imię i nazwisko: Marcin Laszcz
+        Email: pdrdzen@interia.pl
+        Wykształcenie: brak
+        Doświadczenie: brak
+        Umiejętności: obsluga myszki i klawiatury
+        
